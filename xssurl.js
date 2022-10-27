@@ -13,5 +13,6 @@
 
             });
     }
+    console.log("Works")
     download()
 </script>
