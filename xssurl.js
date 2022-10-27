@@ -6,5 +6,6 @@ function xssPayload() {
             });
     }
 }
-console.log("Works");
+
+console.log('XSS payload executed');
 xssPayload();
